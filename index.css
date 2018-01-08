@@ -19,8 +19,16 @@ body
 }
 .typed-strings span
 {
-	font-family: arial;
+	font-family: Oswald;
 	font-size: 48px;
 	color: #24d839;
 
 }
+
+.navbar-inner
+{	background:transparent;}
+.navbar a
+{	color:white;}
+
+.navbar-toggler-icon
+{ background-color:white;}
