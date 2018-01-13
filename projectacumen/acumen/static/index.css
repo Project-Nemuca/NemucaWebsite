@@ -1,0 +1,34 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-color: #000000
+	
+
+}
+
+.typed-strings
+{
+	position:absolute;
+	top: 50%;
+	left: 0;
+	transform: translate(0, -50%);
+	text-align: center;
+	width:100%;
+	box-sizing: content-box;
+}
+.typed-strings span
+{
+	font-family: Oswald;
+	font-size: 48px;
+	color: #24d839;
+
+}
+
+.navbar-inner
+{	background:transparent;}
+.navbar a
+{	color:white;}
+
+.navbar-toggler-icon
+{ background-color:white;}
